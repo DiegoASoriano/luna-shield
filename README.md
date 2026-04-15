@@ -4,7 +4,7 @@
 
 Luna Shield is a preventive digital assistant for teenagers aged 13-17 that detects risk situations in conversations in real time. It presents itself as a friendly animated avatar that accompanies the teenager in a non-threatening way, explaining risks and only escalating alerts to a guardian when necessary.
 
-Built for **Hackathon 404: Threat Not Found** — U.S. Embassy in Mexico + StartupLab MX · April 24-26, 2026 · Hotel Marriott Reforma, CDMX.
+Built for **Hackathon 404: Threat Not Found** — U.S. Embassy in Mexico + StartupLab MX · April 24-26, 2026 · CDMX.
 
 ---
 
@@ -64,7 +64,7 @@ Luna Shield puts the teenager at the center. When it detects a risk signal in a 
 ---
 
 ## Project Structure
-
+```
 luna-shield/
 ├── frontend/        # React app — Adriana Solís
 │   ├── src/
@@ -74,8 +74,7 @@ luna-shield/
 │   └── models/
 ├── design/          # Wireframes, mockups, Lottie files — Ángel García
 └── docs/            # Gemini prompt, test dataset, demo script — Maximiliano Ayala
-
----
+```
 
 ## Running the Project Locally
 
